@@ -1,0 +1,6 @@
+1. flexboxassign1.html - flexstyle.css - main.css
+2. index.html - style.css
+3. diff between rem and em
+answer:
+Em  : Em unit is the height of the font in nominal points or inches.
+Rem : The rem, or root em, is the font size of the root element of the document. 
